@@ -7,6 +7,7 @@ This is my first GitHub repository.
 - Conflict resolution
 - SSH key setup
 - Pushing code to GitHub
+- **NEW: Pulling updates from GitHub!**
 
 ## About me
-I'm learning full-stack development step by step.
+I am learning full-stack development step by step.
